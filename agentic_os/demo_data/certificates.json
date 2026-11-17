@@ -1,0 +1,42 @@
+[
+ {
+  "host": "portal.example.test",
+  "issuer": "Demo CA",
+  "expires": "2026-11-21"
+ },
+ {
+  "host": "api.example.test",
+  "issuer": "Demo CA",
+  "expires": "2027-01-15"
+ },
+ {
+  "host": "mail.example.test",
+  "issuer": "Demo CA",
+  "expires": "2026-12-04"
+ },
+ {
+  "host": "wiki.example.test",
+  "issuer": "Demo CA",
+  "expires": "2026-12-19"
+ },
+ {
+  "host": "status.example.test",
+  "issuer": "Demo CA",
+  "expires": "2027-06-04"
+ },
+ {
+  "host": "files.example.test",
+  "issuer": "Demo CA",
+  "expires": "2027-06-04"
+ },
+ {
+  "host": "vpn.example.test",
+  "issuer": "Demo CA",
+  "expires": "2027-11-16"
+ },
+ {
+  "host": "sso.example.test",
+  "issuer": "Demo CA",
+  "expires": "2026-11-25"
+ }
+]

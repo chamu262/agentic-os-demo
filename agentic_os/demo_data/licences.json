@@ -1,0 +1,32 @@
+[
+ {
+  "product": "Example Office Suite",
+  "seats": 250,
+  "assigned": 241,
+  "active_30d": 198
+ },
+ {
+  "product": "Demo Design Tool",
+  "seats": 40,
+  "assigned": 40,
+  "active_30d": 22
+ },
+ {
+  "product": "Sample Chat Pro",
+  "seats": 300,
+  "assigned": 212,
+  "active_30d": 205
+ },
+ {
+  "product": "Placeholder VPN",
+  "seats": 120,
+  "assigned": 119,
+  "active_30d": 61
+ },
+ {
+  "product": "Mock Code Editor",
+  "seats": 60,
+  "assigned": 31,
+  "active_30d": 29
+ }
+]

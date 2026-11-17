@@ -1,0 +1,242 @@
+[
+ {
+  "device": "DEMO-LT-1000",
+  "owner": "user00@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-11-04"
+ },
+ {
+  "device": "DEMO-LT-1001",
+  "owner": "user01@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-08-13"
+ },
+ {
+  "device": "DEMO-LT-1002",
+  "owner": "user02@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-09-29"
+ },
+ {
+  "device": "DEMO-LT-1003",
+  "owner": "user03@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "device": "DEMO-LT-1004",
+  "owner": "user04@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "device": "DEMO-DT-1005",
+  "owner": "user05@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-10-27"
+ },
+ {
+  "device": "DEMO-LT-1006",
+  "owner": "user06@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "device": "DEMO-LT-1007",
+  "owner": "user07@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-10-27"
+ },
+ {
+  "device": "DEMO-LT-1008",
+  "owner": "user08@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-14"
+ },
+ {
+  "device": "DEMO-LT-1009",
+  "owner": "user09@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-08-13"
+ },
+ {
+  "device": "DEMO-DT-1010",
+  "owner": "user10@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "device": "DEMO-LT-1011",
+  "owner": "user11@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "device": "DEMO-DT-1012",
+  "owner": "user12@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-11-13"
+ },
+ {
+  "device": "DEMO-LT-1013",
+  "owner": "user13@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-13"
+ },
+ {
+  "device": "DEMO-LT-1014",
+  "owner": "user14@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "device": "DEMO-LT-1015",
+  "owner": "user15@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "device": "DEMO-LT-1016",
+  "owner": "user16@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-14"
+ },
+ {
+  "device": "DEMO-LT-1017",
+  "owner": "user17@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-11-15"
+ },
+ {
+  "device": "DEMO-DT-1018",
+  "owner": "user18@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-08-13"
+ },
+ {
+  "device": "DEMO-DT-1019",
+  "owner": "user19@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-10-12"
+ },
+ {
+  "device": "DEMO-LT-1020",
+  "owner": "user20@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-11-08"
+ },
+ {
+  "device": "DEMO-LT-1021",
+  "owner": "user21@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-07-19"
+ },
+ {
+  "device": "DEMO-DT-1022",
+  "owner": "user22@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "device": "DEMO-DT-1023",
+  "owner": "user23@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-10-12"
+ },
+ {
+  "device": "DEMO-DT-1024",
+  "owner": "user24@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-10-12"
+ },
+ {
+  "device": "DEMO-LT-1025",
+  "owner": "user25@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-14"
+ },
+ {
+  "device": "DEMO-LT-1026",
+  "owner": "user26@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-10-27"
+ },
+ {
+  "device": "DEMO-DT-1027",
+  "owner": "user27@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-11-13"
+ },
+ {
+  "device": "DEMO-LT-1028",
+  "owner": "user28@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-15"
+ },
+ {
+  "device": "DEMO-DT-1029",
+  "owner": "user29@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "device": "DEMO-DT-1030",
+  "owner": "user30@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-07-19"
+ },
+ {
+  "device": "DEMO-DT-1031",
+  "owner": "user31@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-10-12"
+ },
+ {
+  "device": "DEMO-DT-1032",
+  "owner": "user32@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-11-14"
+ },
+ {
+  "device": "DEMO-LT-1033",
+  "owner": "user33@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-07-19"
+ },
+ {
+  "device": "DEMO-DT-1034",
+  "owner": "user34@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-07-19"
+ },
+ {
+  "device": "DEMO-DT-1035",
+  "owner": "user35@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-09-16"
+ },
+ {
+  "device": "DEMO-DT-1036",
+  "owner": "user36@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-07-19"
+ },
+ {
+  "device": "DEMO-LT-1037",
+  "owner": "user37@example.com",
+  "os": "Windows 11",
+  "last_seen": "2026-11-04"
+ },
+ {
+  "device": "DEMO-LT-1038",
+  "owner": "user38@example.com",
+  "os": "Ubuntu 24.04",
+  "last_seen": "2026-11-04"
+ },
+ {
+  "device": "DEMO-DT-1039",
+  "owner": "user39@example.com",
+  "os": "macOS 15",
+  "last_seen": "2026-11-14"
+ }
+]

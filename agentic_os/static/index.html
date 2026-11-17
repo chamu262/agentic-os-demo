@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Agentic OS</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="desktop">
+  <header class="topbar">
+    <span class="logo">◆ Agentic OS</span>
+    <span class="tag">demo data</span>
+    <span id="clock" class="clock"></span>
+  </header>
+  <nav class="dock">
+    <button data-app="overview" class="active">▦<span>Overview</span></button>
+    <button data-app="jobs">⟳<span>Jobs</span></button>
+    <button data-app="runs">☰<span>Runs &amp; logs</span></button>
+    <button data-app="approvals">✓<span>Approvals</span><b id="badge"></b></button>
+  </nav>
+  <main class="window">
+    <div class="titlebar"><i></i><i></i><i></i><span id="wtitle">Overview</span></div>
+    <section id="view" class="content"></section>
+  </main>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
