@@ -11,7 +11,7 @@ it found, and **queues any change for a human to approve** before anything is to
 
 ## Quick start
 
-Needs Python 3.9+ and nothing else (standard library only).
+Needs Python 3.10+ and nothing else (standard library only).
 
 ```bash
 git clone https://github.com/chamu262/agentic-os-demo.git && cd agentic-os-demo
